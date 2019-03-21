@@ -4,10 +4,12 @@ Simple bash script for Installing OpenCV in Python of  Raspberry PI (Raspbian).
 Being a noobie I personally faced hell lot of trouble for simply installing Opencv libraries for Python.
 Though many helpful tutorials are available online, but are time consumming and need to follow so many steps.
 
-Thus here is the SINGLE CLICK installer  for opencv libraries in python of Raspberry PI. 
+Thus here is the SINGLE CLICK installer  for opencv libraries in python of Raspberry PI, Save your time and Energy.
 
 
 
+
+(Make sure you have Active Internet Connection.)
 ***************************************************************
 Follow this procedure:
 
