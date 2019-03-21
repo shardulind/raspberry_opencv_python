@@ -16,11 +16,11 @@ Follow this procedure:
 1) Download this opecv_python_rpi_installer.sh  shell file in your Raspberry pi.
 2) type the following command
 
-chmod +x install_opencv.sh
+chmod +x opecv_python_rpi_installer.sh
 
 3) and the run the file
 
-./install_opencv.sh
+./opecv_python_rpi_installer.sh
 *****************************************************************
 
 
